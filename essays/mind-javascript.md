@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-
+<img width="100px" class="rounded float-start pe-4" src="../img/JavaScript-logo.png">
  Ever wondered why websites feel alive, responding to your clicks and scrolls? 
 The secret lies in a silent orchestra conductor - JavaScript. 
 This powerful language, not simply a wall between users and databases, 
