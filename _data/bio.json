@@ -4,15 +4,13 @@
     "label": "Student",
     "picture": "https://gordeevd.github.io/img/profile_img.jpg",
     "email": "d m i t r y g@hawaii.edu",
-    "phone": "808-000-0000",
+    "phone": "",
     "website": "https://gordeevd.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96797", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "gordeevd", "url": "http://github.com/gordeevd" },
-      { "network": "linkedin", "username": "gordeev-du", "url": "http://linkedin.com/in/gordeev-du/" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/" }
+      { "network": "linkedin", "username": "gordeev-du", "url": "http://linkedin.com/in/gordeev-du/" }
     ]
   },
   "interests": [
@@ -40,6 +38,14 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Sciences (transfer Spring, 2024)",
+      "studyType": "A.S.",
+      "startDate": "2021-01-8",
+      "endDate": "2024",
+      "courses": [ "ENG100E", "ICS111", "ICS141", "ICS170", "ICS211", "FSHN185", "BUSN277", "MATH241", "MATH242", "ICS212", "ICS241", "PACS108", "MUS107", "CHEM161", "CHEM161L", "CHEM162", "CHEM162L", "PHYS151", "PHYS151L", "ICS215" ]
     }
   ],
   "work": [
