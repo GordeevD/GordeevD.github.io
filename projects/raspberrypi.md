@@ -22,3 +22,6 @@ pairing well with a variety of sensors like temperature and pressure sensors,
 as well as wheels, actuators, solenoids, and motors. I'm planning to experiment with building a stand-alone LLM system using Python libraries 
 like TensorFlow and NumPy to interact with the hardware and maybe prototype something truly unique. 
 If paired with a 3D printer it opens a wide road of project possibilities.  The question left is: where to find free time for it...
+<div class="text-center p-4">
+  <img width="200px" src="../img/raspberrypi/raspberrypi3.jpg" class="img-thumbnail" >
+</div>
