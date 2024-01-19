@@ -3,26 +3,15 @@ layout: project
 type: project
 image: img/bonus/bonus.jpg
 title: ""
-date: 2015
-published: false
+date: 2018
+published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Retail
+  - POS
+  - Customer loyalty
+summary: "'Special achievement' award for loyalty and gift certificates integration project in a retail network."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/bonus/bonus.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+This 6-month project, spearheaded by me as a software integration developer, alongside a business analyst and project owner, transformed the brand's customer engagement strategy. We seamlessly integrated a bonus system rewarding frequent purchases. We also implemented personalized gift certificates, boosting holiday sales. To streamline operations, we adjusted the POS system and established a bi-directional exchange with their SAP ERP. The project's exceptional success was recognized by business consulting company that I used to work at that time, who presented us a special achievement award at their monthly meeting. This experience honed my ability to lead complex integrations, troubleshoot technical challenges, and collaborate effectively with stakeholders to deliver game-changing results.
