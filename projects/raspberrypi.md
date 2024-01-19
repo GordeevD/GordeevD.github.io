@@ -15,7 +15,7 @@ summary: "Raspberry Pi sensor accessory"
 <div class="text-center p-4">
   <img width="200px" src="../img/raspberrypi/raspberrypi2.jpg" class="img-thumbnail" >
 </div>
-This is my ongoing project.
+This is my ongoing hobby project.
 The Raspberry Pi's compact size (about the size of a credit card) packs a powerful punch.
 This affordable, low-power single-board computer is a nearly ideal developer board, 
 pairing well with a variety of sensors like temperature and pressure sensors, 
