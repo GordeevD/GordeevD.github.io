@@ -6,14 +6,16 @@
     "email": "d m i t r y g@hawaii.edu",
     "phone": "",
     "website": "https://gordeevd.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science: General Track in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
     "location": { "address": "", "postalCode": "96797", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "gordeevd", "url": "http://github.com/gordeevd" },
-      { "network": "linkedin", "username": "gordeev-du", "url": "http://linkedin.com/in/gordeev-du/" }
+      { "network": "linkedin", "username": "gordeev-du", "url": "http://linkedin.com/in/gordeev-du/" },
+      { "network": "medium", "username": "dmitry-cq", "url": "https://medium.com/@dmitry-cq" }
     ]
   },
   "interests": [
+    { "name": "Ai" },
     { "name": "Computational research" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
@@ -22,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "PHP", "Perl" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "Python", "PHP", "Perl" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows", "Linux", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -41,7 +43,7 @@
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Natural Sciences (transfer Spring, 2024)",
+      "area": "Natural Sciences (transfer at Spring, 2024)",
       "studyType": "A.S.",
       "startDate": "2021-01-8",
       "endDate": "2024",
@@ -51,6 +53,7 @@
   "work": [
   ],
   "volunteer": [
+    "Mālama Puʻuloa - I planted trees at Pearl City bicycle route project in 2023."
   ],
   "awards": [
   ],
