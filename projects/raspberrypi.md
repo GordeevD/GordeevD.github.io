@@ -13,7 +13,7 @@ summary: "Raspberry Pi sensor accessory"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/raspberrypi/raspberrypi1.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/raspberrypi/raspberrypi2.jpg" class="img-thumbnail" >
 </div>
 
 The Raspberry Pi's compact size (about the size of a credit card) packs a powerful punch. 
