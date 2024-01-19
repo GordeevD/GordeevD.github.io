@@ -20,3 +20,4 @@ summary: "The video game I worked on in my internship with GameDevHQ was sponsor
 This learning experience was about one month long. I developed Unity 3D skills: Stealth Game & Cinematography, 2.5D Game Development, working with audio, Unity C# application, Git.
 
 Try this game in Google Chrome: <a href="https://gordeevd.github.io/The-Great-Fleece/"><i class="large github icon "></i>gordeevd.github.io/The-Great-Fleece</a>
+Detailed log of my internship: <a href="https://medium.com/@dmitry-cq"><i class="large medium icon "></i>medium.com/@dmitry-cq</a>
