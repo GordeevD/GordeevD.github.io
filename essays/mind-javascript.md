@@ -29,4 +29,4 @@ However, adhering to standards like ECMAScript is crucial.Addressing evolving we
 browser support, community efforts, and influences from other languages, ECMAScript ensures code adaptability. 
 So, if your JavaScript resembles C++, a detour to ES6 might be in order!
 
-This essay was written by Dmitry Gordeev, based on lectures of Philip Johnson (University of Hawai`i at Manoa) professor. With helping hand of Google Bard AI for structuring and final improvements.
+_This essay was written by Dmitry Gordeev, based on lectures of Philip Johnson (University of Hawai`i at Manoa) professor. With helping hand of Google Bard AI for structuring and final improvements._
