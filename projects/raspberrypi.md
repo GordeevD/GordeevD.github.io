@@ -6,9 +6,8 @@ title: "Raspberry Pi"
 date: 2024
 published: true
 labels:
-  - Microcomputer
-  - Raspberry Pi
   - Python
+  - Microcomputer
 summary: "Raspberry Pi sensor accessory"
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/raspberrypi/raspberrypi3.jpg"> This is my ongoing hobby project. The Raspberry Pi's compact size (about the size of a credit card) packs a powerful punch. This affordable, low-power single-board computer is a nearly ideal developer board, 
