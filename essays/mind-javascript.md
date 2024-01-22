@@ -25,7 +25,7 @@ But why is JavaScript easier than, say, C++? While C++ demands more from beginne
 practical engineers and offers lower-level access to memory, the internet's pace couldn't accommodate such hurdles. 
 JavaScript fills this gap with its intuitive syntax, requiring less documentation wrangling (as my own experience confirms).
 
-However, adhering to standards like ECMAScript is crucial.Addressing evolving web development needs, 
+However, adhering to standards like ECMAScript is crucial. Addressing evolving web development needs, 
 browser support, community efforts, and influences from other languages, ECMAScript ensures code adaptability. 
 So, if your JavaScript resembles C++, a detour to ES6 might be in order!
 
