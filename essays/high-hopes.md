@@ -4,7 +4,7 @@ type: essay
 title: "High Hopes"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-23
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
