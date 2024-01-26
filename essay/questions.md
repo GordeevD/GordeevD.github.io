@@ -11,15 +11,19 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/questions/stackoverflow.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/questions/stack.png">
 
 *Qestions to ask.*
 
 
 
-## In the context of 
+## Example of stupid way to ask a question
 
-## In the context of 
+https://stackoverflow.com/questions/588004/is-floating-point-math-broken/588014#588014
+
+## Example of 'smart way' to ask a question
+
+https://stackoverflow.com/questions/23641555/what-would-cause-the-c-c-and-operators-to-return-true-if-either-argu
 
 ## In the context of 
 
