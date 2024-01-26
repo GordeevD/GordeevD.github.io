@@ -19,7 +19,7 @@ labels:
 
 ## Example of stupid way to ask a question
 
-Here is a link to [stackoverflow](https://stackoverflow.com/questions/588004/is-floating-point-math-broken/588014#588014).
+Here is a link to [stackoverflow](https://stackoverflow.com/questions/588004/is-floating-point-math-broken/588014).
 
 ## Example of 'smart way' to ask a question
 
