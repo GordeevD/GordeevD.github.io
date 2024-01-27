@@ -33,7 +33,7 @@ It focuses on a binary "broken" vs. "not broken" perspective, potentially limiti
 Here is a link to [Stackoverflow](https://stackoverflow.com/questions/23641555/what-would-cause-the-c-c-and-operators-to-return-true-if-either-argu).
 
 The question clearly defines the topic. It avoids ambiguity and focuses on a well-defined area of code behavior.
-The question goes beyond just asking "Why does this happen?" It pinpoints the specific operators involved and clarifies the expected behavior. The question is directly relevant to C/C++ programming. It's not a general inquiry about mathematics or unrelated software topics. It challenges the reader to understand the nuances
+The question goes beyond just asking "Why does this happen?" It pinpoints the specific operators involved and clarifies the expected behavior. The question is directly relevant to C/C++ programming. It's not a general inquiry about mathematics or unrelated software topics. It challenges the reader to understand the nuances.
 
 ## Ask smart!
 By refining our ability to ask smart questions, we not only unlock solutions to immediate problems but also unlock deeper understanding, fostering a collaborative environment where knowledge flows freely and innovation thrives.
