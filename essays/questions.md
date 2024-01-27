@@ -2,14 +2,12 @@
 layout: essay
 type: essay
 title: "So, you smart. Will your questions be answered?"
-redirect_from: /essay/questions/
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true
 labels:
   - Communication
   - Smart Way
-  - Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/questions/stack.png">
