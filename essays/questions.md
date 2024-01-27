@@ -19,8 +19,8 @@ Eric Steven Raymond, in his work "How To Ask Questions The Smart Way," lays out 
 A well-phrased question should leave no room for uncertainty without walking into irrelevant territory. It should also spark inquisitiveness, drawing the respondent into a collaborative exploration.
 
 ## An example of a question that could be not smart to ask
-> Is floating point math broken?
-> 
+*Is floating point math broken?*
+ 
 Here is a link to [Stackoverflow](https://stackoverflow.com/questions/28946999/caveat-floating-point).
 
 It's overbroad and lacks details about the context or specific issues with floating-point math.
@@ -28,7 +28,7 @@ It might not be clear what the asker hopes to achieve by asking this question.
 It focuses on a binary "broken" vs. "not broken" perspective, potentially limiting deeper exploration.
 
 ## An example of the 'smart way' to ask a question
-> What would cause the C/C++ <, <=, and == operators to return true if either argument is NaN?
+*What would cause the C/C++ <, <=, and == operators to return true if either argument is NaN?*
 
 Here is a link to [Stackoverflow](https://stackoverflow.com/questions/23641555/what-would-cause-the-c-c-and-operators-to-return-true-if-either-argu).
 
