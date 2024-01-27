@@ -2,8 +2,8 @@
 layout: essay
 type: essay
 title: "So, you smart. Will your questions be answered?"
-redirectFrom:
-  - /essay/questions.md
+redirect_from:
+  - /essay/questions
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true
