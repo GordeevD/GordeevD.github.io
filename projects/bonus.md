@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bonus/bonus.jpg
+image: img/bonus/bonus.png
 title: ""
 date: 2018
 published: true
