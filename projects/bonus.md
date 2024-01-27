@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/bonus/bonus.png
-title: ""
+title: "Bonus system & gift certificates"
 date: 2018
 published: true
 labels:
   - Retail
   - POS
   - Customer loyalty
-summary: "'Special achievement' award for loyalty and gift certificates integration project in a retail network."
+summary: "'Special achievement' award for loyalty system and gift certificates integration project in a retail network."
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/bonus/special-achievement.jpg">
