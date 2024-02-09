@@ -47,7 +47,7 @@
       "studyType": "A.S.",
       "startDate": "2021-01-8",
       "endDate": "2024",
-      "courses": [ "ENG100E", "ICS111", "ICS141", "ICS170", "ICS211", "FSHN185", "BUSN277", "MATH241", "MATH242", "ICS212", "ICS241", "PACS108", "MUS107", "CHEM161", "CHEM161L", "CHEM162", "CHEM162L", "PHYS151", "PHYS151L", "ICS215" ]
+      "courses": [ "ICS111 - Introduction to Computer Science I (Java)", "ICS211 - Introduction to Computer Science II (Java)", "ICS141 - Discrete Mathematics for Computer Science I", "ICS241 - Discrete Mathematics for Computer Science II", "ICS170 - Ethics for the Digital World", "BUSN277 - International Business Protocol", "ICS212 - Program Structure (C, C++)", "ICS215 - Introduction to Scripting (JS, Perl, PHP, Python)", "ICS314 - Software Engineering (JavaScript)" ]
     }
   ],
   "references": [
