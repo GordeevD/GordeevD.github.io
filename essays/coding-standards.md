@@ -25,9 +25,13 @@ Just like following traffic rules promotes safety and predictability, coding sta
  5. **Reduced Maintenance**: Well-organized code is easier to debug, update, and extend. By avoiding stylistic idiosyncrasies,
       standards enable smoother handoffs and minimize the time spent deciphering past decisions.
       Think of it as preventive maintenance, keeping your codebase well-paved and free of potholes.
-There is many standards exist, and most popular are
+
+There are many standards exist, and most popular are
+
 [AirBnB Javascript Coding Standards that alligned with ECMAScript](https://github.com/airbnb/javascript)
+
 [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 [JavaScript Standard Style](https://github.com/standard/standard)
 
 ## Automation to the Rescue
