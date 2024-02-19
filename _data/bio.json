@@ -15,8 +15,8 @@
     ]
   },
   "interests": [
-    { "name": "Ai" },
-    { "name": "Computational research" },
+    { "name": "AI" },
+    { "name": "Computational Research" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "Lasers" }
