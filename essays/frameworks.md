@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Java Script UI Frameworks"
+title: "UI Frameworks for web development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
   - JavaScript
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/frameworks/logo.jpg">
+<img width="100px" class="rounded float-start pe-4" alt="Framework" src="../img/frameworks/logo.jpg">
 
 ## Why Use a UI Framework?
 CSS (Cascading Style Sheets) might seem something only web designers should touch. If you know nothing about user interface (UI) design, the easiest option might be to delegate to a professional. However, a better solution could be adopting a UI framework. These frameworks offer ready-to-use components, professionally designed and tested by millions. While they may not be entirely original, they offer the assurance of functionality and save time during rapid development, a major reason why developers use them.
