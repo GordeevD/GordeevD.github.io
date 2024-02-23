@@ -12,10 +12,14 @@ labels:
 ---
 <img width="100px" class="rounded float-start pe-4" src="../img/frameworks/logo.jpg">
 
-## Enforce coding standards
+## Introduction
 
-## Automation to the Rescue
+## What is a UI Framework?
 
-## Remember 
+## Why use a UI Framework?
+
+## What are the most popular UI Frameworks?
+
+## Conclusion
 
 *Written by Dmitry Gordeev*
