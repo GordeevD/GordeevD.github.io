@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks for web development"
+title: "UI Frameworks for Web Development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
