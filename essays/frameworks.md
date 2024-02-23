@@ -8,7 +8,6 @@ published: true
 labels:
   - Software Engineering
   - UI Frameworks
-  - JavaScript
 ---
 <img width="100px" class="rounded float-start pe-4" alt="Framework" src="../img/frameworks/logo.jpg">
 
