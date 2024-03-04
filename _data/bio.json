@@ -34,26 +34,26 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2027)",
+      "area": "Computer Science ( expected Fall, 2027 )",
       "studyType": "B.S.",
       "startDate": "2024-01-8",
       "endDate": "Present",
-      "courses": [ "ICS314 - Software Engineering (JavaScript)"
+      "courses": [ "ICS314 - Software Engineering ( JavaScript )"
       ]
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Natural Sciences (transfer at Spring, 2024)",
+      "area": "Natural Sciences ( transfer at Spring, 2024 )",
       "studyType": "A.S.",
       "startDate": "2021-01-8",
       "endDate": "2024",
-      "courses": [ "ICS111 - Introduction to Computer Science I (Java)", 
-        "ICS211 - Introduction to Computer Science II (Java)", 
+      "courses": [ "ICS111 - Introduction to Computer Science I ( Java )",
+        "ICS211 - Introduction to Computer Science II ( Java )",
         "ICS141 - Discrete Mathematics for Computer Science I", 
         "ICS241 - Discrete Mathematics for Computer Science II", 
         "ICS170 - Ethics for the Digital World",  
-        "ICS212 - Program Structure (C, C++)", 
-        "ICS215 - Introduction to Scripting (JS, Perl, PHP, Python)",
+        "ICS212 - Program Structure ( C, C++ )",
+        "ICS215 - Introduction to Scripting ( JS, Perl, PHP, Python )",
         "BUSN277 - International Business Protocol" 
       ]
     }
