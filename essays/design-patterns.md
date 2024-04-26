@@ -36,6 +36,10 @@ Using design patterns in software development has several benefits. Firstly, the
 system more flexible and scalable, as they allow for easy modification and extension of the system. Thirdly, they improve code readability and maintainability, as they provide a standardized way of solving
 problems.
 
+## Personal Experience
+
+I have been using design patterns in my internship project game development. I have used the Singleton pattern to ensure that there is only one instance of the game manager class and background music class. Other examples of use design patterns in games [read here](https://dmitry-cq.medium.com/day-23-game-programming-design-patterns-5a52655cb0ef)
+
 ## Conclusion
 
 In conclusion, design patterns are an essential tool for software developers. They provide a set of rules and principles that help to build robust and reliable systems. The Gang of Four book is a
