@@ -42,7 +42,7 @@ I have been using design patterns in my internship project game development. I h
 
 ## Conclusion
 
-In conclusion, design patterns are an essential tool for software developers. They provide a set of rules and principles that help to build robust and reliable systems. The Gang of Four book is a
+Design patterns are an essential for software developers. They provide a set of rules and principles that help to build robust and reliable systems. The Gang of Four book is a
 comprehensive guide on how to use these patterns in software development. By applying these patterns, developers can create systems that are flexible, scalable, and easy to maintain. In the world of software
 development, design patterns are like strong bones that hold the system together.
 
