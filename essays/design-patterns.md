@@ -14,11 +14,11 @@ labels:
 
 ## Foundation
 
-Have you ever built something? I am not talking about assembling a constructor, but about creating from scratch, something that is intended to be used on a daily basis. Choosing metrics, materials, and tools,
+Have you ever built something? I am not talking about assembling a constructor, but about creating from scratch, something that is intended to be used daily. Choosing metrics, materials, and tools,
 and then putting it all together. Often it is a long and complicated process, and it is easy to get lost in it and get stuck. Even worse if you have done the project and find out that things don't work or
 collapse. The same thing happens in software development. Software is a complex system that consists of many parts, and it is easy to get lost in it. But there is a solution. The solution is called design
 patterns. Design patterns are a set of rules and principles that help to build a robust and reliable system. They are like a strong foundation that holds the building together. In this essay, I will talk
-about the Gang of Four design patterns book and how they can help you to build a better software system.
+about the Gang of Four design patterns book and how they can help you build a better software system.
 
 ## Gang of Four
 
@@ -28,7 +28,7 @@ and behavioral patterns. Creational patterns deal with object creation mechanism
 interactions.
 
 The Gang of Four book provides a comprehensive guide on how to use these design patterns in software development. It explains the problems that each pattern solves, how to implement it, and when to use it.
-The book is written in a way that makes it easy for developers to understand and apply the patterns in their own projects.
+The book is written in a way that makes it easy for developers to understand and apply the patterns in their projects.
 
 ## Benefits of Design Patterns
 
