@@ -38,7 +38,7 @@ problems.
 
 ## Personal Experience
 
-I have been using design patterns in my internship project game development. I have used the Singleton pattern to ensure that there is only one instance of the game manager class and background music class. Other examples of use design patterns in games [read here](https://dmitry-cq.medium.com/day-23-game-programming-design-patterns-5a52655cb0ef)
+I have been using design patterns in my internship project game development. I have used the Singleton pattern to ensure that there is only one instance of the game manager class and background music class. Other examples of design patterns in games [read here](https://dmitry-cq.medium.com/day-23-game-programming-design-patterns-5a52655cb0ef).
 
 ## Conclusion
 
