@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "So, you smart. Will your questions be answered?"
+title: "So, You Smart. Will Your Questions be Answered?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true

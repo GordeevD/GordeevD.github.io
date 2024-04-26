@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards. Improve your style"
+title: "Coding Standards. Improve Your Style"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: true
