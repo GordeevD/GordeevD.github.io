@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI in class"
+title: "AI in Class"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-04
 published: true
