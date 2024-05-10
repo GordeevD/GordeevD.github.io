@@ -4,7 +4,7 @@ type: essay
 title: "Conscious Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-08
-published: true
+published: false
 labels:
   - Software Engineering
   - Education
