@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Conscious Software Engineering. What I Leraned in University"
+title: "Conscious Software Engineering. What I Learned in University"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-08
 published: true
