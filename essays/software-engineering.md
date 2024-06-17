@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/software-engineering/logo.png">My software engineering education at the University of Hawaii at Manoa has been a transformative experience. Through this essay, I will reflect on the skills I have acquired, the insights I have gained, and the technologies I have learned.
 
-### Skills
+## Skills
 
 My journey began with JavaScript, where I quickly grasped the concept of prototype-based object-oriented programming. The professor's analogy with mitosis helped me understand how objects are created in JavaScript.
 
@@ -37,7 +37,7 @@ We explored templates developed for Meteor (a full-stack framework) that utilize
 
 We utilized GitHub from the beginning of the course, learning version control, branch creation, merging, conflict resolution,and project management using GitHub project boards. In our final project, we managed group development using GitHub project boards, creating milestones, issues, and assigning tasks to team members.
 
-### Software Engineering Practice Insights
+## Software Engineering Practice Insights
 
 Through this course, I gained valuable insights into software engineering practices. Here are the most important takeaways:
 
@@ -61,7 +61,7 @@ We learned about fundamental design patterns, when to apply them, and their hist
 
 The unique aspect of this class was athletic programming, where we solved assignments within a short timeframe (WOD) and competed, measuring our progress. This approach improved my problem-solving skills and ability to work under pressure.
 
-### Tech Stuff
+## Tech Stuff
 
 Here is the list of technologies and tools I have learned and utilized in my software engineering education:
 
@@ -78,6 +78,6 @@ Here is the list of technologies and tools I have learned and utilized in my sof
 * React - JavaScript library for building user interfaces
 * MongoDB - NoSQL database
 
-### Conclusion
+## Conclusion
 
 This intensive class was the best software development course I have ever taken. I acquired a wealth of practical knowledge and skills that will benefit my future career. This experience provided a solid foundation, and I look forward to continued learning and improvement in software engineering.
