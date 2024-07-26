@@ -16,6 +16,7 @@ If paired with a 3D printer it opens a wide road of project possibilities. I mig
 One of my 'idea fixe' is to build a fly zapper that would use a camera and microphone to detect insects and neutralize them with a laser. 
 - Here is an inspirational video: [Nathan Myhrvold: Could this laser zap malaria?](https://youtu.be/kcwBH_Uevxo?si=7X4wp0NLz99jN4FG)
 - Recent research paper: [Remote control of mosquitoes by power laser](https://doi.org/10.1007/s11554-021-01079-x)
+- Triggering: [Machine learning for acoustic mosquito detection](https://www.robots.ox.ac.uk/~sjrob/Theses/IvanPhDThesisFinal.pdf)
 <br />
 <br />
 <br />
