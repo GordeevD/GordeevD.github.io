@@ -78,7 +78,7 @@ I think it is important to use AI in the right way to improve the learning proce
 ### IV. Practical Applications:
 Besides class, I used LLM for troubleshooting hardware issues for faulty scientific devices. I asked the question:
 ```
-me: I am repairing a scientific tool that has force sensor reading acting up. I replaced the capacitors, but it didn't help. What else I can do? 
+me: I am repairing a scientific tool that has force sensor reading acting up. I replaced the capacitors, but it didn't help. What else can I do? 
 llm: A repair challenge!
 
 Sorry to hear that replacing the capacitors didn't resolve the issue with force sensor readings. Let's troubleshoot further to identify the potential cause and possible solutions.
