@@ -20,6 +20,10 @@ bfs
 dfs
 
 ## Shortest Path
+Relaxation
+Bellman Ford Algorithm
+DAG (Directed Acyclic Graph)
+Dijsktra's Algorithm
 
 
 
